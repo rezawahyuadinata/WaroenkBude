@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!-- VENDOR CSS -->
+<link rel="stylesheet" href="{{URL::asset('assets/vendor/bootstrap/css/bootstrap.min.css')}}">
+<link rel="stylesheet" href="{{URL::asset('assets/vendor/font-awesome/css/font-awesome.min.css')}}">
+<link rel="stylesheet" href="{{URL::asset('assets/vendor/linearicons/style.css')}}">
+<link rel="stylesheet" href="{{URL::asset('assets/vendor/chartist/css/chartist-custom.css')}}">
+<link rel="stylesheet" href="{{URL::asset('css/animate.css')}}">
+<!-- MAIN CSS -->
+<link rel="stylesheet" href="{{URL::asset('assets/css/main.css')}}">
+<!-- FOR DEMO PURPOSES ONLY. You should remove this in your project -->
+<link rel="stylesheet" href="{{URL::asset('assets/css/demo.css')}}">
+
+<!-- GOOGLE FONTS -->
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
